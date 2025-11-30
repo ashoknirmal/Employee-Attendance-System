@@ -93,7 +93,7 @@ npm run dev
 📸 Screenshots:
 
 -Employee Dashboard:-
-<img width="1890" height="934" alt="image" src="https://github.com/public/employee-dashboard.png" />
+<img width="1890" height="934" alt="Employee Dashboard" src="https://github.com/ashoknirmal/Employee-Attendance-System/blob/main/public/employee-dashboard.png?raw=true" />
 
 -Attendance Calendar
 <img width="1890" height="934" alt="image" src="https://github.com/public/attendance-calendar.png" />
