@@ -93,11 +93,14 @@ npm run dev
 📸 Screenshots:
 
 -Employee Dashboard:-
-<img width="1890" height="934" alt="image" src="https://github.com/user-attachments/assets/c418e092-3d83-4540-84e7-02505ea95959" />
+<img width="1890" height="934" alt="image" src="https://github.com/public/employee-dashboard.png" />
 
 -Attendance Calendar
+<img width="1890" height="934" alt="image" src="https://github.com/public/attendance-calendar.png" />
 
 -Manager Team Dashboard
+<img width="1890" height="934" alt="image" src="https://github.com/public/manager-dashboard.png" />
 
 -Reports Page
+<img width="1890" height="934" alt="image" src="https://github.com/public/attendance-report.png" />
 
