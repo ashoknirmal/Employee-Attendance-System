@@ -93,6 +93,7 @@ npm run dev
 📸 Screenshots:
 
 -Employee Dashboard:-
+<img width="1890" height="934" alt="image" src="https://github.com/user-attachments/assets/c418e092-3d83-4540-84e7-02505ea95959" />
 
 -Attendance Calendar
 
