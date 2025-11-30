@@ -96,11 +96,10 @@ npm run dev
 <img width="1890" height="934" alt="Employee Dashboard" src="https://github.com/ashoknirmal/Employee-Attendance-System/blob/main/public/employee-dashboard.png?raw=true" />
 
 -Attendance Calendar
-<img width="1890" height="934" alt="image" src="https://github.com/public/attendance-calendar.png" />
+<img width="1890" height="934" alt="Attendance Calendar" src="https://github.com/ashoknirmal/Employee-Attendance-System/blob/main/public/attendance-calendar.png?raw=true" />
 
 -Manager Team Dashboard
 <img width="1890" height="934" alt="image" src="https://github.com/public/manager-dashboard.png" />
 
 -Reports Page
-<img width="1890" height="934" alt="image" src="https://github.com/public/attendance-report.png" />
-
+<img width="1890" height="934" alt="Reports Page" src="https://github.com/ashoknirmal/Employee-Attendance-System/blob/main/public/attendance-report.png?raw=true" />
